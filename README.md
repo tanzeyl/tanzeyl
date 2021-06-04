@@ -34,10 +34,12 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanzeyl&show_icons=true&theme=dark&line_height=27" alt="Tanzeel's Github Stats"/>
 </a></div><br>
 <hr>
+  <img src="https://thumbs.dreamstime.com/b/thank-you-sign-text-comic-balloons-background-51258911.jpg" height="200px" width="1000px"></div>
+  <hr><div>
  <a href="https://www.linkedin.com/in/tanzeel-khan-5754641ab/">
     <img align="left" alt="Tanzeel Khan | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="mailto:ktanzeel80@gmail.com">
     <img align="left" alt="Tanzeel Khan | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
+  </a></div>
 
