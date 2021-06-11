@@ -24,18 +24,24 @@
 
 ## Let's look at some stats:
 <div>
-  <p>Languages Used:</p>
+  <p align="center"><b><i>Languages Used:</i><b><br><br>
 <a href="https://github.com/tanzeyl">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzeyl&theme=dark&hide_langs_below=1" />
-</a></div><br>
+    </a></p></div><br>
 <div>
-  <p>GitHub Statistics:</p>
+  <p align="center"><b><i>GitHub Statistics:</i><b><br><br>
 <a href="https://github.com/tanzeyl">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanzeyl&show_icons=true&theme=dark&line_height=27" alt="Tanzeel's Github Stats"/>
-</a></div><br>
+    </a></p></div><br>
+<div>
+  <p align="center"><b><i>Streak Statistics:</i></b><br><br>
+    <img alt="tanzeyl's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tanzeyl&theme=dark&hide_border=true"/>
+  </p>
+</div>
 <hr>
-  <img src="https://thumbs.dreamstime.com/b/thank-you-sign-text-comic-balloons-background-51258911.jpg" height="200px" width="1000px"></div>
-  <hr><div>
+  <img alt="tanzeyl's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tanzeyl&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+
+  <div>
  <a href="https://www.linkedin.com/in/tanzeel-khan-5754641ab/">
     <img align="left" alt="Tanzeel Khan | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
