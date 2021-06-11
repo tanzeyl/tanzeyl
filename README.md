@@ -18,7 +18,8 @@
 <img align="left" alt="C Programming Language" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" />
 <img align="left" alt="Flask" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />
 <img align="left" alt="Heroku" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" />
-<img align="left" alt="Jupyter Notebooks" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" /><br><br>
+<img align="left" alt="Jupyter Notebooks" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" />
+<img align="left" alt="PHP" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" /><br><br>
 
 <hr>
 
@@ -40,7 +41,7 @@
 </div>
 <hr>
   <img alt="tanzeyl's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tanzeyl&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-
+<hr>
   <div>
  <a href="https://www.linkedin.com/in/tanzeel-khan-5754641ab/">
     <img align="left" alt="Tanzeel Khan | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
