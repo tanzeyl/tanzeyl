@@ -1,5 +1,5 @@
 # Tanzeel Khan <img src="https://media1.giphy.com/media/jOmQmJkjcvB3Bc8CRb/200.webp?cid=ecf05e47yf1a97vfwa7whfkzwdhpvmvv9vtctib5d363cvyu&rid=200.webp&ct=g" height="60px" width="60px">
-## 👋 Hello, World! <img src="https://media3.giphy.com/media/llCMePepHIqmv1ZYoN/200w.webp?cid=ecf05e47otrz7t971uykbwze1bdnk15t4k9joko17pxdi5z3&rid=200w.webp&ct=g" height="30px" width="30px">
+![banner (1)](https://user-images.githubusercontent.com/76683598/121713108-1baeb000-cafa-11eb-955e-c970d98952e6.png)
 <i>I am a first year Engineering Graduate from <a href="https://www.geu.ac.in/" target="_blank">Graphic Era University, Dehradun.</a> I am a budding Data Scientist and a Machine Learning Enthusiast, who is currently aiming to learn all there is to learn about Data Science.</i>
 <hr>
 
@@ -20,9 +20,10 @@
 <img align="left" alt="Heroku" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" />
 <img align="left" alt="Jupyter Notebooks" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" />
 <img align="left" alt="PHP" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" /><br><br>
-
 <hr>
-
+<h2>🏆 Github Profile Trophy</h2>
+  <img width=100% src="https://github-profile-trophy.vercel.app/?username=tanzeyl&column=8&theme=gruvbox&no-frame=true"/>
+  
 ## Let's look at some stats:
 <div>
   <p align="center"><b><i>Languages Used:</i><b><br><br>
