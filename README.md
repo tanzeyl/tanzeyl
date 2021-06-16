@@ -1,6 +1,6 @@
 # Tanzeel Khan <img src="https://media1.giphy.com/media/jOmQmJkjcvB3Bc8CRb/200.webp?cid=ecf05e47yf1a97vfwa7whfkzwdhpvmvv9vtctib5d363cvyu&rid=200.webp&ct=g" height="60px" width="60px">
 ![banner (1)](https://user-images.githubusercontent.com/76683598/121713108-1baeb000-cafa-11eb-955e-c970d98952e6.png)
-<i>I am a first year Engineering Graduate from <a href="https://www.geu.ac.in/" target="_blank">Graphic Era University, Dehradun.</a> I am a budding Data Scientist and a Machine Learning Enthusiast, who is currently aiming to learn all there is to learn about Data Science and Machine Learning.</i>
+<i>I am a first year Engineering Graduate from <a href="https://www.geu.ac.in/" target="_blank">Graphic Era University, Dehradun.</a> I am a budding Data Scientist and a Machine Learning Enthusiast, who is currently aiming to learn all there is to learn about Data Science.</i>
 <hr>
 
 - <img src="https://media3.giphy.com/media/TamGVAGxDTYDNt3dpn/200w.webp?cid=ecf05e47v786gywr713evjw2e0g6m1pc7mrzrjscnjk0gt8u&rid=200w.webp&ct=g" height="20vw" width="20vw"> I’m currently working on a Machine Learning model that predicts which passengers will survive on the titanic.
