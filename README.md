@@ -19,7 +19,8 @@
 <img align="left" alt="Flask" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />
 <img align="left" alt="Heroku" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" />
 <img align="left" alt="Jupyter Notebooks" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" />
-<img align="left" alt="PHP" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" /><br><br>
+<img align="left" alt="PHP" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" />
+<img align="left" alt="Ruby" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" /><br><br>
 <hr>
 <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=times+new+roman&color=FFFFFF&lines=Github+Trophies"></h2>
   <img width=100% src="https://github-profile-trophy.vercel.app/?username=tanzeyl&column=8&theme=gruvbox&no-frame=true"/>
