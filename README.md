@@ -9,6 +9,7 @@
 - <img src="https://media2.giphy.com/media/j5Q5fFH4zGJ9TkNnrw/200w.webp?cid=ecf05e47y231z4bzrm9l0eut1o7d0z9t9dbypfgj2bmf419m&rid=200w.webp&ct=g" height="20vw" width="20vw"> How to reach me: Phone Number: +91-9870661375
 - <img src="https://media4.giphy.com/media/fnSUqVP4VBp5nreSul/200w.webp?cid=ecf05e47luuw7ma928fwfeif9s6989wr336iynpvkwpulsdb&rid=200w.webp&ct=g" height="20vw" width="20vw"> Pronouns: He/Him
 - <img src="https://media0.giphy.com/media/kHsNGykRSXwhPw4Q7M/200w.webp?cid=ecf05e47f64y32wr2p2v8n13fqxj183gv527jcebusrh518k&rid=200w.webp&ct=g" height="20vw" width="20vw"> Fun fact: I write excellent poems. Check them out on Instagram: <a href="https://www.instagram.com/writtenbytanzeyl/" target="_blank">@writtenbytanzeyl.</a><hr>
+<details closed>
 <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=times+new+roman&color=FFFFFF&lines=Languages+and+Tools"></h2>
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
