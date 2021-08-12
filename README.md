@@ -46,12 +46,14 @@
   <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=times+new+roman&color=FFFFFF&lines=Graph+of+Statistics:"></h2>
   <img alt="tanzeyl's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tanzeyl&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 <hr>
-  <div>
+  <div style="display: flex; align-items: center;">
  <a href="https://www.linkedin.com/in/tanzeel-khan-5754641ab/">
     <img align="left" alt="Tanzeel Khan | Linkedin" width="48px" height="48px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="mailto:ktanzeel80@gmail.com">
     <img align="left" alt="Tanzeel Khan | Gmail" width="48px" height="48px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a></div>
+  </a><br>
+    <img style="margin-top: 2px;" src="https://gpvc.arturio.dev/tanzeyl" alt="profile views">
+  </div>
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
