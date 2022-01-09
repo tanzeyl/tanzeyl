@@ -54,7 +54,6 @@
   <a href="mailto:ktanzeel80@gmail.com">
     <img align="left" alt="Tanzeel Khan | Gmail" width="48px" height="48px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a><br>
-    <img style="margin-top: 2px;" src="https://gpvc.arturio.dev/tanzeyl" alt="profile views">
   </div>
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
