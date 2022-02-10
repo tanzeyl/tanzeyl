@@ -16,11 +16,8 @@
 <img align="left" alt="Python" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="GitHub" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 <img align="left" alt="C Programming Language" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" />
-<img align="left" alt="Flask" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />
-<img align="left" alt="Heroku" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" />
 <img align="left" alt="Jupyter Notebooks" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" />
-<img align="left" alt="PHP" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" />
-<img align="left" alt="Ruby" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" />
+<img align="left" alt="Julia" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" />
   </center>
   <br><br>
 <hr>
