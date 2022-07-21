@@ -55,7 +55,7 @@
   </a><br>
   </div>
   <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=ytanzeyl", height=20, width=100)
+  <img src="https://komarev.com/ghpvc/?username=ytanzeyl&color=BC243C&style=plastic", height=20, width=100)
    <br>
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
