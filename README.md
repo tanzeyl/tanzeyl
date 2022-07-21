@@ -5,8 +5,9 @@
 
 - :mailbox: How to reach me: Phone Number: +91-9870661375
 - 👦: Pronouns: He/Him
-- 🖋 Fun fact: I write excellent poems. Check them out on Instagram: <a href="https://www.instagram.com/writtenbytanzeyl/" target="_blank">@writtenbytanzeyl.</a><hr>
-<details closed>
+- 🖋 Fun fact: I write excellent poems. Check them out on Instagram: <a href="https://www.instagram.com/writtenbytanzeyl/" target="_blank">@writtenbytanzeyl.</a>
+
+<hr>
 <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=times+new+roman&color=FFFFFF&lines=Languages+and+Tools"></h2>
   <center>
     
@@ -53,5 +54,8 @@
     <img align="left" alt="Tanzeel Khan | Gmail" width="48px" height="48px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a><br>
   </div>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=ytanzeyl", height=20, width=100)
+   <br>
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
