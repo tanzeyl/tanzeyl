@@ -1,6 +1,6 @@
 # Tanzeel Khan <img src="https://media1.giphy.com/media/jOmQmJkjcvB3Bc8CRb/200.webp?cid=ecf05e47yf1a97vfwa7whfkzwdhpvmvv9vtctib5d363cvyu&rid=200.webp&ct=g" height="60px" width="61px">
 ![banner (1)](https://user-images.githubusercontent.com/76683598/121713108-1baeb000-cafa-11eb-955e-c970d98952e6.png)
-<i>I am a first year Engineering Student from <a href="https://www.geu.ac.in/" target="_blank">Graphic Era University, Dehradun.</a> I am a budding Data Scientist and a Machine Learning Enthusiast, who is currently aiming to learn all there is to learn about Data Science.</i>
+<i>I am a third year Engineering Student from <a href="https://www.geu.ac.in/" target="_blank">Graphic Era University, Dehradun.</a> I am a budding Data Scientist and a Machine Learning Enthusiast, who is currently aiming to learn all there is to learn about Data Science.</i>
 <hr>
 
 - :mailbox: How to reach me: Phone Number: +91-9870661375
