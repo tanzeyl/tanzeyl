@@ -43,9 +43,6 @@
   </p>
 </div>
 <hr>
-  <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=times+new+roman&color=FFFFFF&lines=Graph+of+Statistics:"></h2>
-  <img alt="tanzeyl's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tanzeyl&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-<hr>
   <div style="display: flex; align-items: center;">
  <a href="https://www.linkedin.com/in/tanzeel-khan-5754641ab/">
     <img align="left" alt="Tanzeel Khan | Linkedin" width="48px" height="48px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
